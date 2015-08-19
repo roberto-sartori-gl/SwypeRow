@@ -20,7 +20,7 @@
             android:value="30" />
         <meta-data
             android:name="xposeddescription"
-            android:value="We love black Twitter" />
+            android:value="Black Twitter" />
     </application>
 
 </manifest>
