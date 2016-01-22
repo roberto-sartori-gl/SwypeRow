@@ -1,11 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.robertogl.BlackTwitter"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    package="com.robertogl.swyperow"
+    android:versionCode="2"
+    android:versionName="1.1" >
 
     <uses-sdk
-        android:minSdkVersion="15"
-        android:targetSdkVersion="18" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
 
     <application
         android:allowBackup="true"
@@ -20,7 +20,7 @@
             android:value="30" />
         <meta-data
             android:name="xposeddescription"
-            android:value="We love black Twitter" />
+            android:value="Add the row number to Swype Keyboard" />
     </application>
 
 </manifest>

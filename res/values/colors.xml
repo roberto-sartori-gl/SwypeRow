@@ -1,9 +1,0 @@
-<resources>
-    <color name="white">#ff000000</color>
-	<color name="common_signin_btn_default_background">#ff000000</color>
-	<color name="faint_transparent_white">#ff000000</color>
-	<color name="primary_text">#ffffffff</color>
-	<color name="secondary_text">#ffffffff</color>
-	<color name="text">#ffffffff</color>
-	<color name="btn_default_fill">#ff000000</color>
-</resources>

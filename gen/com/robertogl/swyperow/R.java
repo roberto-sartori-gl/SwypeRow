@@ -5,22 +5,26 @@
  * should not be modified by hand.
  */
 
-package com.robertogl.BlackTwitter;
+package com.robertogl.swyperow;
 
 public final class R {
     public static final class attr {
     }
-    public static final class color {
-        public static final int btn_default_fill=0x7f030006;
-        public static final int common_signin_btn_default_background=0x7f030001;
-        public static final int faint_transparent_white=0x7f030002;
-        public static final int primary_text=0x7f030003;
-        public static final int secondary_text=0x7f030004;
-        public static final int text=0x7f030005;
-        public static final int white=0x7f030000;
-    }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int bg_bottom_bar=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
+    }
+    public static final class raw {
+        public static final int kbd_azerty_panlatin=0x7f030000;
+        public static final int kbd_azerty_panlatin_tablet=0x7f030001;
+        public static final int kbd_azertyfr=0x7f030002;
+        public static final int kbd_azertyfr_tablet=0x7f030003;
+        public static final int kbd_qwerty_panlatin=0x7f030004;
+        public static final int kbd_qwerty_panlatin_tablet=0x7f030005;
+        public static final int kbd_qwertz_panlatin=0x7f030006;
+        public static final int kbd_qwertz_panlatin_tablet=0x7f030007;
+        public static final int kbd_qwertzde=0x7f030008;
+        public static final int kbd_qwertzde_tablet=0x7f030009;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
