@@ -1,11 +1,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 <<<<<<< HEAD
+<<<<<<< HEAD
     package="com.robertogl.swyperow"
 =======
     package="com.robertogl.BlackTwitter"
 >>>>>>> origin/master
     android:versionCode="2"
     android:versionName="1.1" >
+=======
+    package="com.robertogl.swyperow"
+    android:versionCode="1"
+    android:versionName="1.0" >
+>>>>>>> origin/master
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -25,9 +31,13 @@
         <meta-data
             android:name="xposeddescription"
 <<<<<<< HEAD
+<<<<<<< HEAD
             android:value="Add the row number to Swype Keyboard" />
 =======
             android:value="Black Twitter" />
+>>>>>>> origin/master
+=======
+            android:value="Add the row number to Swype Keyboard" />
 >>>>>>> origin/master
     </application>
 
