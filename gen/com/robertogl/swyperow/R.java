@@ -13,6 +13,7 @@ public final class R {
     public static final class drawable {
         public static final int bg_bottom_bar=0x7f020000;
         public static final int ic_launcher=0x7f020001;
+<<<<<<< HEAD:gen/com/robertogl/swyperow/R.java
     }
     public static final class raw {
         public static final int kbd_azerty_panlatin=0x7f030000;
@@ -25,9 +26,11 @@ public final class R {
         public static final int kbd_qwertz_panlatin_tablet=0x7f030007;
         public static final int kbd_qwertzde=0x7f030008;
         public static final int kbd_qwertzde_tablet=0x7f030009;
+=======
+>>>>>>> origin/master:gen/com/robertogl/BlackTwitter/R.java
     }
     public static final class string {
-        public static final int app_name=0x7f040000;
+        public static final int app_name=0x7f030000;
     }
     public static final class style {
         /** 
@@ -51,10 +54,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f050000;
+        public static final int AppBaseTheme=0x7f040000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f050001;
+        public static final int AppTheme=0x7f040001;
     }
 }
