@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="@string/pref_category_individual_conversations">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="arrow_keys"
+            android:title="@string/arrow_keys_choice" />
+    </PreferenceCategory>
+    <EditTextPreference
+        android:key="height"
+        android:defaultValue="100"
+        android:ems="10"
+        android:title="KeyBoard Height (%)" />
+</PreferenceScreen>

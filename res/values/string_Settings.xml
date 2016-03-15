@@ -1,0 +1,4 @@
+<resources>
+    <string name="pref_category_individual_conversations">Options</string>
+    <string name="arrow_keys_choice">Add arrow keys</string>
+</resources>
