@@ -97,7 +97,7 @@ public class Main implements IXposedHookZygoteInit, IXposedHookLoadPackage, IXpo
         		 
         		 if( keyboard.containsKey(id_t)){
         			 double id = ((Integer)param.getResult())*1.25*Float.parseFloat(Preferences.height())/100;
-        			 //XposedBridge.log("CACCA" + id);
+        			 //XposedBridge.log("id: " + id);
         			 int id_int = (int) id;
         			 param.setResult(id_int);
         		 }
