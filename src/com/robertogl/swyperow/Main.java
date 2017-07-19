@@ -136,7 +136,7 @@ public class Main implements IXposedHookZygoteInit, IXposedHookLoadPackage, IXpo
 
         			 PackageInfo pInfo = mContext.getPackageManager().getPackageInfo(PACKAGE_NAME, 0);
         			 int verCode = pInfo.versionCode;
-        			 //XposedBridge.log("Versione: " + verCode);
+        			 //XposedBridge.log("Version: " + verCode);
             		 if (!Preferences.hasArrowKeys())
             		 {
             			 kdb_name = "n_" + kdb_name;
